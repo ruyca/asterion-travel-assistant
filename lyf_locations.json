@@ -1,0 +1,42 @@
+[
+    {
+        "Singapore": [
+            {
+                "name": "lyf Farrer Park Singapore",
+                "location": {
+                    "latitude": "1.312698439643495",
+                    "longitude": "103.85564320836872"
+                },
+                "Address": "2 Perumal Rd, #01-01, Singapore 218773",
+                "photo":"images\\lyf_singapore\\lyf_ferrer.jpeg"
+            },
+            {
+                "name": "lyf Funan Singapore",
+                "location": {
+                    "latitude": "1.2917379210775362",
+                    "longitude": "103.84946605312687"
+                },
+                "Address": "67 Hill St, Level 4 Funan, Singapore 179370",
+                "photo":"images\\lyf_singapore\\funan.jpg"
+            },
+            {
+                "name": "lyf one-north Singapore",
+                "location": {
+                    "latitude": "1.3008001325427117", 
+                    "longitude": "103.78809684362871"
+                },
+                "Address": "80 Nepal Park, Singapore 139409",
+                "photo":"images\\lyf_singapore\\one-north.jpg"
+            },
+            {
+                "name": "lyf Bugis Singapore",
+                "location": {
+                    "latitude": "1.3009747406693097",
+                    "longitude": "103.85152713178316"
+                },
+                "Address": "200 Middle Rd, Singapore 188980",
+                "photo": "images\\lyf_singapore\\bugis.jpg"
+            }
+        ]
+    }
+]
