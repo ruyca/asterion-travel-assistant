@@ -133,4 +133,4 @@ This project was developed for the HackAngel Hackathon Finals, focusing on creat
 - Telegram Bot API
 
 ## License
-[Add your license here]
+MIT licencse
