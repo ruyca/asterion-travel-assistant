@@ -31,10 +31,11 @@ languages_iso = {
 }
 
 
-def translate(message, target, source="en"):
+def translate(message, target, forced=False):
 
-    if target == "English":
-        return message
+    if not forced:
+        if target == "English":
+            return message
 
 
     response = client.chat.completions.create(
